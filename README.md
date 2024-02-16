@@ -1,6 +1,3 @@
-# ATS
-Application Tracking System
-
 # ATS (Applicant Tracking System)
 
 ## Overview
