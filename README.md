@@ -15,9 +15,14 @@ ATS (Applicant Tracking System) is a project developed for efficiently managing 
 
 ## Requirements
 -->Python 3.x
+
 -->Anvil
+
 -->scikit-learn
+
 -->PyPDF2
+
 -->docx
+
 -->spaCy
 
